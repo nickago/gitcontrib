@@ -2,8 +2,8 @@ Git Contrib
 ===========
 
 [![Build Status](https://travis-ci.org/nickfrostatx/gitcontrib.svg?branch=master)](https://travis-ci.org/nickfrostatx/gitcontrib)
-[![Coverage](https://img.shields.io/coveralls/nickfrostatx/gitcontrib.svg)](https://coveralls.io/github/nickfrostatx/gitcontrib)
-[![Version](https://img.shields.io/pypi/v/gitcontrib.svg)](https://pypi.python.org/pypi/gitcontrib)
+[![Coverage](https://coveralls.io/repos/nickfrostatx/gitcontrib/badge.svg?branch=master&service=github)](https://coveralls.io/github/nickfrostatx/gitcontrib?branch=master)
+[![Version](https://badge.fury.io/py/gitcontrib.svg)](https://pypi.python.org/pypi/gitcontrib)
 [![License](https://img.shields.io/pypi/l/gitcontrib.svg)](https://raw.githubusercontent.com/nickfrostatx/gitcontrib/master/LICENSE)
 
 The roommates coming together to write some code.. oh god
